@@ -7,9 +7,9 @@
 
 - ✅ Fundamentos do Desenvolvimento Web
 
-- ⚙️ **Front-end** 
+- ⚙️ Front-end 
 
-- 📌 Back-end
+- 📌 **Back-end**
 
 - 📌 Ciência da Computação
 
