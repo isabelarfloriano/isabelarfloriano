@@ -5,13 +5,13 @@
 
 - 👨‍💻 **Etapas do Curso (status) :**
 
-- ✅ Fundamentos do Desenvolvimento Web
+    - ✅ Fundamentos do Desenvolvimento Web
 
-- ✅ Front-end 
+    - ✅ Front-end 
 
-- 📌 **Back-end**
+    - 📌 **Back-end**
 
-- ⚙️ Ciência da Computação
+    - ⚙️ Ciência da Computação
 
 - 📫 Você pode me contatar pelo email [irf161295@gmail.com](irf161295@gmail.com) 
 
