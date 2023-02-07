@@ -9,7 +9,7 @@
 
     - ✅ Front-end 
 
-    - 📌 Back-end
+    - ✅ Back-end
 
     - ⚙️ **Ciência da Computação**
 
