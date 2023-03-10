@@ -6,7 +6,7 @@
 
 - 👨‍💻 Participando da Aceleração em **JAVA** promovida pela Trybe em parceria com o Hub Floripa. Status:
 
-    - ✅ Módulos concluídos : **1. Fundamentos em Java | 2. Orientação a Objetos | 3. Manipulação de textos e arquivos | 4. Tratamento de erros | 5. Coleções | 6. Datas | 7. Gestão de Dependências | 8. Testes com JUnit5 | 9. ORM - Hibernate | 10. Java Web**
+    - :heavy_check_mark: Módulos concluídos : **1. Fundamentos em Java | 2. Orientação a Objetos | 3. Manipulação de textos e arquivos | 4. Tratamento de erros | 5. Coleções | 6. Datas | 7. Gestão de Dependências | 8. Testes com JUnit5 | 9. ORM - Hibernate | 10. Java Web**
 
     - 📝 Módulos em andamento: **11. Spring | 12. Quarkus | 13. Containers**
 <h4 align="center"> :warning: Os projetos desenvolvidos até o momento estão sendo reformulados e postados aos poucos, por questões de propriedade intelectual da Trybe. :warning: </h5>
