@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo ao meu perfil! 👋:relaxed:</h1>
 <h3 align="center">Isabela Rozani Floriano - Desenvolvedora Web Full Stack</h3>
-Atualmente atuo como Desenvolvedora de Softaware Full Stack Junior na Boxlink utilizando as seguintes ferramentas: Java · AngularJS · MySQL · JDBC · Spring Boot · Docker · TypeScript · JPA (Java Persistence API) · Metodologias Agile · API REST · Git
+Atualmente atuo como Desenvolvedora de Softaware Full Stack Junior na Boxlink utilizando as seguintes ferramentas: Java · AngularJS · MySQL · JDBC · Spring Boot · Docker · TypeScript · JPA (Java Persistence API) · Testes · API REST · Git
 
 - 🎓 Graduada em **Administração**
 - 🎓 Formada em **Desenvolvimento Web**
